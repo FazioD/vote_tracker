@@ -1,0 +1,1 @@
+A vote tracker to allow readers to select a photo for the cutest kitten.
