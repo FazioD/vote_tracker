@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  color: #21211;
+  width: 90%;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Bree Serif', serif;
+}
+
+img {
+  margin-left: 1rem;
+  width: 12rem;
+}
